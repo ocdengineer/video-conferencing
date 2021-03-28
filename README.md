@@ -7,4 +7,4 @@ Resources for WebRTC
 - https://www.html5rocks.com/en/tutorials/webrtc/basics/ - Hands on tutorials on how to make a simple WebRTC app.
 - https://webrtcbook.com/  - WebRTC standards guide book (very technical)
 - https://www.mindk.com/blog/what-is-webrtc-and-how-to-avoid-its-3-deadliest-pitfalls/ - Problems faced by someone while building a WebRTC app for production
-- https://bloggeek.me/media-server-for-webrtc-broadcast/ - WebRTC limitations with many connections and why a media server is required in such cases
+- https://bloggeek.me/media-server-for-webrtc-broadcast/ - WebRTC limitations with many connections and why a server (TURN server) is required in such cases
